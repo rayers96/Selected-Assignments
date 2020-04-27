@@ -14,14 +14,14 @@ using namespace std;
 template<typename T>
 class DynamicArray: public Container<T>{
 private:
-  int* ptr;
+  T* ptr;
   int a_size;
   int a_capacity;
 
   void a_resize(){
     a_capacity *= 2;
-    int* tmp = ptr;
-    ptr = new int[a_capacity];
+    T* tmp = ptr;
+    ptr = new T[a_capacity];
     for (int i = 0; i < a_size; i++) {
       ptr[i] = tmp[i];
     }
@@ -36,7 +36,7 @@ private:
   }
 public:
   DynamicArray() {
-    ptr = new int[10];
+    ptr = new T[10];
     a_size=0;
     a_capacity = 10;
   }
