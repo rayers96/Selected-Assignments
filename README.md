@@ -1,7 +1,11 @@
 # Selected Assignments
 Selected assignments from my Computer Science courses at the University of Iowa
 
-Algorithms (Java)
+Object-Oriented Design (C++) - Spring 2020
+- DynamicArray & LinkedList
+- PriorityQueue - Stack & Queue
+
+Algorithms (Java) - Summer 2019
 - Sorting
 - List & HashMap
 - BinarySearchTree & RedBlackTree
@@ -11,9 +15,8 @@ Algorithms (Java)
   - Fractional Knapsack
   - Max Scheduling
 
-Object-Oriented Design (C++)
-- DynamicArray & LinkedList
-- PriorityQueue - Stack & Queue
-
-Computer Architecture (Java)
+Computer Architecture (Java) - Summer 2019
 - MIPS Assembler
+
+
+
