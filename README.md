@@ -2,6 +2,7 @@
 Selected assignments from my Computer Science courses at the University of Iowa
 
 Object-Oriented Design (C++) - Spring 2020
+- Minesweeper Project (Terminal Based)
 - DynamicArray & LinkedList
 - PriorityQueue
   - Stack :: PriorityQueue
