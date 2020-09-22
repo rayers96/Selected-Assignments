@@ -1,6 +1,8 @@
 # Selected Assignments
 Selected assignments from my Computer Science courses at the University of Iowa
 
+Assignment specifications were included where possible
+
 Object-Oriented Design (C++) - Spring 2020
 - Minesweeper Project (Terminal Based)
 - DynamicArray & LinkedList
